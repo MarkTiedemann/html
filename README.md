@@ -10,7 +10,7 @@
 ## Example
 
 ```ts
-import { html } from "https://raw.githubusercontent.com/MarkTiedemann/html/master/html.ts";
+import { html } from "jsr:@mark/html@1";
 
 Deno.serve(async request => {
 	const { method, url } = request;

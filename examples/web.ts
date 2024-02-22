@@ -1,4 +1,4 @@
-import { html } from "./html.ts";
+import { html } from "../html.ts";
 
 Deno.serve(async request => {
 	const { method, url } = request;

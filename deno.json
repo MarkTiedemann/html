@@ -1,0 +1,5 @@
+{
+	"name": "@mark/html",
+	"version": "1.0.0",
+	"exports": "./html.ts"
+}
