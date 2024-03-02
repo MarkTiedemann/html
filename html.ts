@@ -1,4 +1,4 @@
-const rawString = Symbol();
+const rawString: unique symbol = Symbol();
 
 /** A string that will not be escaped. */
 export interface RawString {
